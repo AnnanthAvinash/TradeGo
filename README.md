@@ -30,10 +30,10 @@ A modern Android stock trading app built with Jetpack Compose, Ktor server, and 
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="200" />
-  <img src="screenshots/stock.png" width="200" />
+  <img src="screenshots/1.png" width="200" />
+  <img src="screenshots/2.png" width="200" />
   <img src="screenshots/trading.png" width="200" />
-  <img src="screenshots/portfolio.png" width="200" />
+  <img src="screenshots/3.png" width="200" />
   <img src="screenshots/wishlist.png" width="200" />
 </p>
 
